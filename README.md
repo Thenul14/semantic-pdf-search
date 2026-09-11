@@ -380,7 +380,7 @@ Through this project, I learned how to:
 
 ## 👨‍💻 Author
 
-**Thenul Jayarathna**
+**Thenul Jayarathna Muhandiramge**
 
 BSc (Hons) Computer Science with Artificial Intelligence
 Birmingham City University
